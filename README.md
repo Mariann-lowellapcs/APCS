@@ -33,7 +33,7 @@ nav ul a {
 }
 
 article {
-    margin-left: 220px;
+    margin-left: 300px;
     border-left: 1px solid gray;
     padding: 5px;
     overflow: hidden;
